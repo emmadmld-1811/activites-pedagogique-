@@ -15,14 +15,8 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
 
 ## Activités pédagogiques 
 
- 01 · Mémori 
-  </div>
-
-  <div style="
-    font-size: 22px;
-    color: #31566d;
-    line-height: 1.5;
-  ">
+ **01 · Mémori**
+ 
 
 
 
