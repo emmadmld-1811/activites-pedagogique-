@@ -9,7 +9,7 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
 
 **Public :** 5ème primaire à la 3ème secondaire
 
-**Domaine:** Informatique
+**Domaine:** Informatique/numérique 
 
 **Format :** Présentiel 
 
