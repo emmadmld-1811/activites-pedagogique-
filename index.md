@@ -16,7 +16,7 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
 
 ## Activités pédagogiques 
 
- ### 01 · Jeu de famille
+### 01 · Jeu de famille
 
  **Objectif :** Savoir maitriser le vocabulaire spécifique au hardware, au software et au réseau.
 
