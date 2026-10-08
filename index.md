@@ -17,7 +17,9 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
 
  **01 · Mémori**
  
-
+<div style="border: 2px solid #90C98B; padding: 10px; display: inline-block; color: #90C98B; font-weight: bold;">
+  ACTIVITÉ
+</div>
 
 
 
