@@ -15,7 +15,7 @@ Ce portfolio rassemble des exemples d’activités, leurs objectifs et les trace
 
 ## Activités pédagogiques 
 
- **01 · Mémori**
+ **01 · Jeu de famille**
  
 
          
